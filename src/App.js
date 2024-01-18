@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>{data[0].certificateNumber}</h1>
+      {/* <h1>{data[0].certificateNumber}</h1>/ */}
       <table>
         <thead>
           <tr>
